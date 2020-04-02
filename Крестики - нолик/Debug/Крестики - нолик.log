@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\міша\desktop\шаг академия програмирование\крестики - нолик\крестики - нолик\main.cpp(104): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\міша\desktop\шаг академия програмирование\крестики - нолик\крестики - нолик\main.cpp(102): warning C4715: 'get_winner': not all control paths return a value
+  Крестики - нолик.vcxproj -> C:\Users\Міша\Desktop\Шаг Академия Програмирование\Крестики - нолик\Debug\Крестики - нолик.exe
